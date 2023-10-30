@@ -20,8 +20,8 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US;th
 title: "TK's Life is So Simple"
 description: "TK's Life is So Simple"
-baseurl: ""
-url: "https://tktknaparat.github.io/"
+baseurl: "/nice_tk"
+url: "https://tktknaparat.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
